@@ -1,0 +1,58 @@
+https://mikrotik.com/client/distributorShop
+
+* Mas 10% por muestras o cajas incompletas. Se debe realizar el pedido, por la pagina web, de toda la caja pero enviar un correo a Valters indicando que solo vas a comprar unos productos.
+
+* Costo de almacenamiento, en Letonia, por productos pedidos pero no pagados, es de $50 por dia despues de las dos semanas.
+
+Enviar a Mikrotik lo de Ring Ring, logo, enlace a los productos de Mikrotik en la pagina web de Ring Ring, telefono, email.
+* El 90% de los mayoristas usan el transporte de Mikrotik(DHL) ya tienen mejores precios por volumen.
+* Todos los productos/pedidos salen desde el almacen central en Letonia.
+* Se puede crear cuentas con permisos/privilegios especificos.
+
+* Se puede personalizar cierto productos, a partir de la LTE6.
+
+
+PASOS PARA REALIZAR UNA ORDEN DE COMPRA:
+
+1. Ring Ring:
+Primero, se confirma una PO (Purchase Order), a traves del portal, UNA VEZ SE CONFIRMA YA NO SE PUEDE CAMBIAR/MODIFICAR.
+	- IMPORTANTE!!! Se elige la cantidad de cajas, NO de productos individuales.
+	- El sistema te permitira comprar incluso los productos que no tengan stock.
+	- Se puede comprar productos individuales, muestras, pero tiene un costo adicional del 10% del precio del producto.
+		- Se tiene que pedir una caja completa, y luego avisar a Valters que solo vas a queres algunas unidades, el modificara las cantidad que necesitamos.
+	
+Segundo, luego el sistema te permitira crear una PI.
+	- El sistema solo te dejara pagar los productos que se tengan en stock.
+
+2. Mikrotik:  El almacen de Mikrotik tendra preparados los productos de la orden en un plazo aproximado de 2 a 3 dias habiles.
+
+
+3. Ring Ring: Pagar la PI (Proforma Invoice) dentro de los tres dias habiles despues de que los productos esten preparados por el almacen.
+
+
+
+* A Lima Mikrotik esta usando DHL como transportista.
+* Mikrotik solo despacha desde Letonia.
+* Mikrotik te permite recuperar %1 de tu venta anual promoviendo la marca con campanas de Marketing. https://mikrotik.com/client/mdf
+* hAP 2 y hAP ax Litlte, por ahora Mikrotik esta colocando en la cabeza de su pagina web a la mayoristas.
+* Consultas tecnicas, mejor abrir ticket en el portal My Support tickes.
+
+
+Manejo de productos en stock, cuando se paga, cuando nos despachan, cuando llega.
+
+
+
+
+
+Mikrotik Support:
+https://help.mikrotik.com/servicedesk/servicedesk/customer/portals
+https://help.mikrotik.com/servicedesk/servicedesk/customer/portal/1/SUP-161806
+
+
+Asistente de tomar notas---> Copilot---> Viernes
+
+Alejandra ----> ALL acccess
+
+- Manejo de productos sin stock, cuando se paga, se cobra, cuando nos despachan, cuando llega.?
+- Como se maneja el tema del envio/proveedor logistico, en que parte de la web nos da a elejir.
+
