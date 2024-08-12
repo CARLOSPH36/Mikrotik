@@ -53,6 +53,9 @@ Asistente de tomar notas---> Copilot---> Viernes
 
 Alejandra ----> ALL acccess
 
+TEMAS A TRATAR EN LA PROXIMA REUNION CON Valters:
+
 - Manejo de productos sin stock, cuando se paga, se cobra, cuando nos despachan, cuando llega.?
 - Como se maneja el tema del envio/proveedor logistico, en que parte de la web nos da a elejir.
+-
 
